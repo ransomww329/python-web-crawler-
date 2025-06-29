@@ -10,8 +10,8 @@ make requests, I am updating this tool weekly as long as this message stands
 
 ## Features
 
-Recursively crawls internal links
-Handles broken pages gracefully
+crawls internal links
+Handles broken pages 
 Uses `requests` and `BeautifulSoup4`
 easy to extend — add form sniffers, filters, etc.
 
